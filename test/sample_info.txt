@@ -1,0 +1,5 @@
+Sample	Group	Sample	Control
+Ex1	G1	test/ex1.bam	test/ex_ctrl.bam
+Ex2	G1	test/ex2.bam	test/ex_ctrl.bam
+Ex3	G2	test/ex3.bam	test/ex_ctrl.bam
+Ex4	G2	test/ex4.bam	test/ex_ctrl.bam
